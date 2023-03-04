@@ -19,6 +19,7 @@ public class ClassGrades {
 		}
 		else if (grade >= 60) {
 			System.out.println("D");
+			System.out.println("this is a new else if just to show an example of something");
 		}
 		else  {
 			System.out.println("F");
