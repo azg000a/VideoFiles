@@ -26,8 +26,7 @@ public class ClassGrades {
 		
 		
 		
-		
-		System.out.println("Nooria is learning this right now and still lost");
+		System.out.println("Nooria is learning this right now");
 		
 		System.out.println(grade);
 		
